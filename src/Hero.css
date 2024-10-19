@@ -6,9 +6,14 @@
     margin-top: 5.3rem;
 }
 
+
 .head1-img{
-    margin-left: 28rem;
+    margin-left: 44rem;
     width:41%;
     background-size: cover;
     margin-top:35px;
+}
+
+.hero-p-itme{
+    position: absolute;
 }
