@@ -1,19 +1,29 @@
-.head1{
-    position: absolute;
+.left{
+    margin-left: 6.7%;
+    margin-top: 7.5%;
+}
+
+.heading{
     font-size: 2.8rem;
-    font-weight: 700;
-    margin-left: 6.2rem ;
-    margin-top: 5.3rem;
-}
-
-
-.head1-img{
-    margin-left: 44rem;
-    width:41%;
-    background-size: cover;
-    margin-top:35px;
-}
-
-.hero-p-itme{
+    font-weight: 680;
     position: absolute;
 }
+
+.item{
+    display: flex;
+    gap: 1rem;
+    position: absolute;
+    margin-top: 11%;
+    font-size: 1.2rem;
+}
+
+.btn{
+    width:24%;
+    height: 40px;
+    color:white;
+    background-color: rgb(185, 27, 117);
+    margin-top: 17%;
+    font-size: larger;
+    font-weight: 100;
+}
+
